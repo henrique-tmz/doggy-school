@@ -11,7 +11,7 @@ const Inicio = ({ navigation }) => {
 }, [navigation]);
 
   return(
-    <View style=(styles.container)>
+    <View style={styles.container}>
      <ImageBackground source={require('./img/cachorrinhos.png')}
         style={styles.container}>
         <Image source={require('./img/cachorro.png')} style={styles.container}/>
