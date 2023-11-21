@@ -15,6 +15,7 @@ import { createNativestackNavigator } from '@react-navigation/native-stack';
 
 const Stack = createNativeStackNavigator();
 
+/*
 export default function App() {
   return (
     /*<NavigationContainer>
@@ -30,6 +31,6 @@ export default function App() {
         <Stack.Screen name:"Relatorio" components:(indexRela)/>
         <Stack.Screen name:"Sair" components:(indexSair)/>
       </Stack.NavigationContainer>
-    </NavigationContainer>*/
+    </NavigationContainer>
   );
-}
+}*/
